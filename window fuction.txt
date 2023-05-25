@@ -1,0 +1,21 @@
+VALUE window fuction >
+
+FIRST_VALUE
+LAST_VALUE
+LAG()
+LEAD()
+RANKING window fuction >
+
+CUME_DIST()
+DENSE_RANK()-----IMP
+NTILE()-----IMP
+RANK()-----IMP
+ROW_NUMBER()----IMP >
+AGGREGATE FUNCIONS >
+
+AVG()
+COUNT()
+MAX()
+MIN()
+SUM()
+
